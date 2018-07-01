@@ -1,0 +1,7 @@
+[package]
+name = "ode45"
+version = "0.1.0"
+authors = ["Michael Wild <themiwi@users.sourceforge.net>"]
+
+[dependencies]
+assert_approx_eq = "1"
